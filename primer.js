@@ -1,4 +1,5 @@
 console.log("esto es un mensaje")
+
 // Solicitar al usuario que ingrese una contraseña
 let contraseña = prompt("Por favor, ingresa tu contraseña:");
 

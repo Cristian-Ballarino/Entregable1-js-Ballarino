@@ -23,10 +23,6 @@ p {
 }
 }
 
-
-
-
-
 button {
 
     padding: 30px 30px;
@@ -64,3 +60,19 @@ button:hover {
         justify-content: center;
     }
 }
+/* Uso horario */
+.horario {
+    text-align: center;
+    background-color: #94bde9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) ;
+
+}
+h2{
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color:#333 ;
+
+}
+

@@ -1,5 +1,10 @@
 console.log("esto es un mensaje")
 
+function saludar() {
+    console.log("¡Hola!");
+}
+saludar();
+
 // Solicitar al usuario que ingrese una contraseña
 let contraseña = prompt("Por favor, ingresa tu contraseña:");
 

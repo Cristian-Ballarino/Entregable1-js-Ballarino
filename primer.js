@@ -14,8 +14,17 @@ if (contraseña === "1234") {
 } else {
     alert("¡Contraseña incorrecta!.");
 }
+// Función para el botón 1
+document.getElementById('boton1').addEventListener('click', function() {
+    alert('¡primer botón !');
+});
 
-//primer boton
-document.getElementById('miboton').addEventListener('click', function() {
-    alert('¡primer boton!');
+// Función para el botón 2
+document.getElementById('boton2').addEventListener('click', function() {
+    alert('¡segundo botón!');
+});
+
+// Función para el botón 3
+document.getElementById('boton3').addEventListener('click', function() {
+    alert('tercer botón!');
 });
